@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b7132e8e9ec0aa4988e7a60fd6080ac, type: 3}
   m_Name: SwordConfig
   m_EditorClassIdentifier: Assembly-CSharp::Assets.Scripts.Game.Tiles.TileConfig
-  _sprite: {fileID: 21300000, guid: ac9199e8b9c38754c9ad57802cb4b8a5, type: 3}
+  _sprite: {fileID: 21300000, guid: 0c6d89609fdff1842883fa44fd36df4a, type: 3}
   _tileKind: 0
   _isInteractable: 1
